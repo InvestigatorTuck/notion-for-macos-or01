@@ -1,4 +1,4 @@
-
+Enhance Notion for macOS with automatic Notion for macOS Workflow | voice notes + widgets, the #1 workflow. Includes voice notes and widgets for a smoother experience.
 
 
 
